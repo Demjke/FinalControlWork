@@ -1,4 +1,4 @@
-﻿string[] arr1 = new string[5] { "asdsadas", "as", "asd", "fasfasdada", "12" };
+﻿string[] arr1 = new string[5] { "asdsada", "as", "asd", "fasfasdada", "12" };
 string[] arr2 = new string[arr1.Length];
 
 void SecondArr(string[] arr1, string[] arr2)
